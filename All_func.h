@@ -1,0 +1,16 @@
+#pragma once
+int menu_find();
+int find();
+int menu_enter();
+int menu_Admin();
+int menu_signIn();
+int Enter();
+int sign_In();
+int menu_tovar();
+int find();
+int sign_In();
+int main_menu();
+void find_name();
+void find_indication_for_use();
+void find_formacol_group();
+void  output_file();
